@@ -8,6 +8,5 @@ public class DemoView extends Div {
 
     public DemoView() {
         add(new PaperSlider());
-        add(new HelloWorld());
     }
 }
